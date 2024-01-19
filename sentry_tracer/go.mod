@@ -1,4 +1,4 @@
-module github.com/hajbabaeim/log-tracer/sentry
+module github.com/hajbabaeim/log-tracer/sentrytracer
 
 go 1.21.4
 
